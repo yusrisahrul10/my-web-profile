@@ -1,7 +1,10 @@
 body {
     width: 100%;
     margin: 30px;
+    margin: 0px;
+    padding: 0px;
     background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
  }
   
  #profile-container{
@@ -37,3 +40,4 @@ body {
     text-align: center;
     color: white;
 }
+
